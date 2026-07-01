@@ -144,7 +144,7 @@ análisis mucho más completo que el que permite un modelo 4×4.
 ```text
 .
 ├── data/
-│   └── dataset_real_4x4.csv     # a_id, a_nombre, b_id, b_nombre, score (INEGI PIBE 2024)
+│   └── dataset.csv     # a_id, a_nombre, b_id, b_nombre, score (INEGI PIBE 2024)
 ├── proyecto_final_ss26.ipynb    # notebook con A_df/B_df/S reales + QUBO + QAOA local
 └── README.md
 ```
