@@ -21,14 +21,14 @@ completo por este dataset real.
 - **Licencia / condiciones de uso:** información estadística oficial de acceso público,
   bien público conforme a la Ley del Sistema Nacional de Información Estadística y
   Geográfica.
-- **URLs consultadas (1 de julio de 2026):**
+- **URLs consultadas (30 de junio de 2026):**
   - Boletín nacional: `https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/pibent/PIBE2024_CP.pdf`
   - Ciudad de México: `https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/pibent/PIBE2024_12_CP_CdMx.pdf`
   - Estado de México: `https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/pibent/PIBE2024_12_RR_EdMx.pdf`
   - Nuevo León: `https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/pibent/PIBE2024_12_CP_NL.pdf`
   - Jalisco: `https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/pibent/PIBE2024_12_CP_Jal.pdf`
   - Serie completa: `https://www.inegi.org.mx/programas/pibent/2018/`
-- **Fecha de consulta:** 1 de julio de 2026.
+- **Fecha de consulta:** 30 de junio de 2026.
 
 ## 3. Por qué es un matching bipartito honesto
 
